@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad8e8329c24aff24c8ce61c56fbcfd17, type: 3}
+  m_Name: 1_Wheat
+  m_EditorClassIdentifier: 
+  plantName: Wheat
+  plantStages:
+  - {fileID: 102330616, guid: 25267f8dc365c4045a05efe8c839d297, type: 3}
+  - {fileID: 4884396248698770261, guid: 502e4860f6a580b4dbf0cab284a5f82f, type: 3}
+  - {fileID: -6967846729870441289, guid: 1463554c5bebc864faab58b840c01cdc, type: 3}
+  - {fileID: -2864904204359658988, guid: 51a0f0dca82a8b14fb6fb41ecb6305b2, type: 3}
+  timeBtwStages: 5
+  buyPrice: 10
+  sellPrice: 20
+  icon: {fileID: 7720945941185500035, guid: 84cd71f410646554da9f6e1a92fe2252, type: 3}
